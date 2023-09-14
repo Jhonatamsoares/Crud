@@ -1,0 +1,17 @@
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\bin\Debug\net6.0-windows\Crud_Produto.exe
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\bin\Debug\net6.0-windows\Crud_Produto.deps.json
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\bin\Debug\net6.0-windows\Crud_Produto.runtimeconfig.json
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\bin\Debug\net6.0-windows\Crud_Produto.dll
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\bin\Debug\net6.0-windows\Crud_Produto.pdb
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.Add_Produtos.resources
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.Form1.resources
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.csproj.GenerateResource.cache
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.AssemblyInfoInputs.cache
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.AssemblyInfo.cs
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.csproj.CoreCompileInputs.cache
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.dll
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\refint\Crud_Produto.dll
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.pdb
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\Crud_Produto.genruntimeconfig.cache
+C:\Users\55389\source\repos\Crud_Produto\Crud_Produto\obj\Debug\net6.0-windows\ref\Crud_Produto.dll
